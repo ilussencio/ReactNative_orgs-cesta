@@ -1,15 +1,12 @@
 ### Cesta de Verduras
 
-<<<<<<< HEAD
 Aplicativo criado para estudos
 
-Foi criado uma tela de cesta de verduras, 
-onde é mostrado o nome da fazenda, descrição, preço e itens da cesta.
+Projedo desenvolvido com React Native.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-=======
-linha 01
+Foi criado uma tela de cesta de verduras, onde e mostrado o nome da fazenda, descrição, preço e itens da cesta.
 
-git clone
->>>>>>> 01b4fb3fde5c07255519ace0aa42bd0396a93d42
+Imagens do projeto:
+![Alt text](https://github.com/ilussencio/ReactNative_orgs-cesta/blob/main/prints/01.jpg "Print 01")
+
+![Alt text](https://github.com/ilussencio/ReactNative_orgs-cesta/blob/main/prints/02.jpg "Print 02")
